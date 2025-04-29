@@ -21,6 +21,7 @@ Developed by: G.Hindhu
 RegisterNumber:  212223230079
 */
 ```
+```
 #include<stdio.h> 
 #include<ctype.h> 
  
@@ -102,6 +103,7 @@ char exp[100]="3%2+4*(A&B)";
 IntoPost(exp); 
 return 1; 
 } 
+```
 ## Output:
 
 ![image](https://github.com/user-attachments/assets/13c29c03-ca8e-4bb9-aca7-efd9050e23ad)
